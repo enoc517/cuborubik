@@ -16,6 +16,7 @@ int main()
         }
 
         window.clear();
+        printf("hola gente si sirvio");
         window.draw(shape);
         window.display();
     }
